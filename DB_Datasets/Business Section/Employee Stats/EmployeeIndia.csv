@@ -1,0 +1,105 @@
+Date updated:,5-Jan-23,,,,,,,
+Created by:,"Aswath Damodaran, adamodar@stern.nyu.edu",,,,,,,
+What is this data?,Employee Information,,,,India,,,
+Home Page:,http://www.damodaran.com,,,,,,,
+Data website:,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/data.html,,,,,,,
+Companies in each industry:,https://pages.stern.nyu.edu/~adamodar/pc/datasets/indname.xls,,,,,,,
+Variable definitions:,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,,,,,,,
+,,Available only for subset of firms that report employee count,,,,,All firms,
+Industry Name,Number of firms,Number of Employees,Market Capitalization ( ($ millions),Revenues ($ millions),Mkt Cap per Employee ($),Revenues per Employee  ($),Stock-based Compensation ($ millions),Stock-based Compensation as % of Revenue
+Advertising,13,817, $-   , $-   , $-   , $-   , $1 ,0.39%
+Aerospace/Defense,13,42767, $-   , $-   , $-   , $-   , $-   ,0.00%
+Air Transport,6,48163, $-   , $-   , $-   , $-   , $3 ,0.04%
+Apparel,323,550766," $3,098 "," $2,545 "," $5,624.54 "," $4,620.33 ", $15 ,0.02%
+Auto & Truck,12,380402, $-   , $-   , $-   , $-   , $22 ,0.03%
+Auto Parts,107,217868," $6,753 "," $2,523 "," $30,997.62 "," $11,581.78 ", $8 ,0.02%
+Bank (Money Center),32,1450869," $117,909 "," $13,961 "," $81,267.64 "," $9,622.58 ", $100 ,0.10%
+Banks (Regional),5,115731," $10,514 "," $1,989 "," $90,847.74 "," $17,182.09 ", $4 ,0.19%
+Beverage (Alcoholic),19,11986, $-   , $-   , $-   , $-   , $4 ,0.11%
+Beverage (Soft),5,11158, $-   , $-   , $-   , $-   , $-   ,0.00%
+Broadcasting,17,15064, $-   , $-   , $-   , $-   , $0 ,0.00%
+Brokerage & Investment Banking,174,29344, $103 , $140 ," $3,527.02 "," $4,781.86 ", $4 ,0.05%
+Building Materials,48,36537, $1 , $2 , $29.56 , $44.89 , $2 ,0.04%
+Business & Consumer Services,58,335735," $6,602 "," $2,293 "," $19,663.23 "," $6,829.08 ", $15 ,0.23%
+Cable TV,8,3909, $-   , $-   , $-   , $-   , $0 ,0.00%
+Chemical (Basic),128,72655, $68 , $32 , $938.68 , $434.93 , $10 ,0.04%
+Chemical (Diversified),10,26899, $-   , $-   , $-   , $-   , $8 ,0.10%
+Chemical (Specialty),167,115324," $3,686 "," $1,579 "," $31,958.66 "," $13,690.39 ", $12 ,0.02%
+Coal & Related Energy,2,249614, $-   , $-   , $-   , $-   , $-   ,0.00%
+Computer Services,132,1785555," $134,138 "," $37,861 "," $75,124.02 "," $21,203.88 ", $197 ,0.21%
+Computers/Peripherals,6,673, $-   , $-   , $-   , $-   , $-   ,0.00%
+Construction Supplies,92,153231, $51 , $103 , $333.84 , $670.94 , $20 ,0.04%
+Diversified,13,27081, $-   , $-   , $-   , $-   , $1 ,0.01%
+Drugs (Biotechnology),8,17616, $-   , $-   , $-   , $-   , $16 ,1.35%
+Drugs (Pharmaceutical),156,360381," $7,401 "," $3,099 "," $20,536.13 "," $8,599.26 ", $42 ,0.12%
+Education,26,4245, $40 , $0 ," $9,328.62 ", $111.43 , $1 ,0.79%
+Electrical Equipment,102,100793, $102 , $130 ," $1,015.94 "," $1,287.79 ", $8 ,0.04%
+Electronics (Consumer & Office),8,2896, $-   , $-   , $-   , $-   , $1 ,0.06%
+Electronics (General),27,15390, $661 , $238 ," $42,923.98 "," $15,471.09 ", $1 ,0.10%
+Engineering/Construction,144,237501, $427 ," $1,314 "," $1,796.71 "," $5,533.00 ", $24 ,0.05%
+Entertainment,60,23009, $25 , $2 ," $1,103.92 ", $94.35 , $7 ,0.41%
+Environmental & Waste Services,10,10087, $-   , $-   , $-   , $-   , $-   ,0.00%
+Farming/Agriculture,57,50174, $66 , $45 ," $1,315.20 ", $904.05 , $2 ,0.04%
+Financial Svcs. (Non-bank & Insurance),254,470818," $2,381 ", $292 ," $5,056.24 ", $620.84 , $174 ,0.34%
+Food Processing,185,264140," $8,645 "," $1,676 "," $32,729.61 "," $6,343.34 ", $12 ,0.03%
+Food Wholesalers,32,1074, $-   , $-   , $-   , $-   , $-   ,0.00%
+Furn/Home Furnishings,38,34641, $-   , $-   , $-   , $-   , $9 ,0.14%
+Green & Renewable Energy,18,9361, $-   , $-   , $-   , $-   , $(11),-0.36%
+Healthcare Products,13,3313, $9 , $10 ," $2,767.88 "," $3,021.43 ", $0 ,0.06%
+Healthcare Support Services,30,17372, $9 , $2 , $532.87 , $137.87 , $4 ,0.60%
+Heathcare Information and Technology,14,28521, $-   , $-   , $-   , $-   , $4 ,0.20%
+Homebuilding,1,5, $-   , $-   , $-   , $-   , $-   ,0.00%
+Hospitals/Healthcare Facilities,24,148254, $-   , $-   , $-   , $-   , $6 ,0.12%
+Hotel/Gaming,57,64202, $1 , $0 , $11.06 , $0.92 , $44 ,1.57%
+Household Products,36,52200," $7,676 ", $761 ," $147,044.06 "," $14,572.80 ", $14 ,0.11%
+Information Services,24,120554, $768 , $297 ," $6,366.44 "," $2,466.11 ", $194 ,5.14%
+Insurance (General),2,30054, $-   , $-   , $-   , $-   , $92 ,4.62%
+Insurance (Life),7,189002," $33,574 "," $17,771 "," $177,635.69 "," $94,024.93 ", $10 ,0.01%
+Insurance (Prop/Cas.),2,26682, $-   , $-   , $-   , $-   , $-   ,0.00%
+Investments & Asset Management,96,12532," $2,301 ", $341 ," $183,649.70 "," $27,248.96 ", $22 ,0.49%
+Machinery,149,73792, $787 , $157 ," $10,665.11 "," $2,121.10 ", $3 ,0.03%
+Metals & Mining,39,62355, $54 , $66 , $871.94 ," $1,064.15 ", $53 ,0.10%
+Office Equipment & Services,13,9707, $-   , $-   , $-   , $-   , $-   ,0.00%
+Oil/Gas (Integrated),1,27165, $-   , $-   , $-   , $-   , $-   ,0.00%
+Oil/Gas (Production and Exploration),6,7108, $-   , $-   , $-   , $-   , $-   ,0.00%
+Oil/Gas Distribution,11,1388, $-   , $-   , $-   , $-   , $-   ,0.00%
+Oilfield Svcs/Equip.,22,399838, $-   , $-   , $-   , $-   , $-   ,0.00%
+Packaging & Container,79,53856, $7 , $30 , $138.15 , $555.18 , $2 ,0.04%
+Paper/Forest Products,50,43456, $45 , $39 ," $1,035.53 ", $902.06 , $2 ,0.03%
+Power,30,98776, $-   , $-   , $-   , $-   , $3 ,0.00%
+Precious Metals,1,7, $-   , $-   , $-   , $-   , $-   ,0.00%
+Publishing & Newspapers,25,22227, $-   , $-   , $-   , $-   , $1 ,0.08%
+R.E.I.T.,4,0, $-   , $-   , NA , NA , $0 ,0.00%
+Real Estate (Development),137,28373, $833 , $199 ," $29,344.41 "," $7,025.09 ", $10 ,0.19%
+Real Estate (General/Diversified),15,5105, $0 , $4 , $51.13 , $861.90 , $1 ,0.07%
+Real Estate (Operations & Services),30,558, $1 , $0 ," $1,586.02 ", $521.51 , $-   ,0.00%
+Recreation,11,2834, $-   , $-   , $-   , $-   , $0 ,0.40%
+Reinsurance,1,494, $-   , $-   , $-   , $-   , $-   ,0.00%
+Restaurant/Dining,13,81616," $1,488 ", $249 ," $18,237.09 "," $3,048.95 ", $6 ,0.30%
+Retail (Automotive),4,5248, $-   , $-   , $-   , $-   , $-   ,0.00%
+Retail (Building Supply),2,2204, $-   , $-   , $-   , $-   , $0 ,0.07%
+Retail (Distributors),239,16880, $21 , $25 ," $1,245.26 "," $1,476.42 ", $3 ,0.01%
+Retail (General),5,42713, $-   , $-   , $-   , $-   , $1 ,0.05%
+Retail (Grocery and Food),5,14548, $-   , $-   , $-   , $-   , $1 ,0.02%
+Retail (Online),13,9038, $-   , $-   , $-   , $-   , $105 ,6.17%
+Retail (Special Lines),28,49054, $10 , $1 , $209.97 , $15.96 , $3 ,0.07%
+Rubber& Tires,16,62144, $2 , $10 , $36.37 , $153.19 , $(0),0.00%
+Semiconductor,8,770, $-   , $-   , $-   , $-   , $-   ,0.00%
+Semiconductor Equip,1,602, $-   , $-   , $-   , $-   , $0 ,0.17%
+Shipbuilding & Marine,20,5740, $126 , $9 ," $22,032.58 "," $1,618.47 ", $-   ,0.00%
+Shoe,12,18921, $-   , $-   , $-   , $-   , $1 ,0.10%
+Software (Entertainment),7,22175, $-   , $-   , $-   , $-   , $13 ,1.07%
+Software (Internet),7,193, $-   , $-   , $-   , $-   , $0 ,0.15%
+Software (System & Application),74,89212," $8,947 "," $1,463 "," $100,292.35 "," $16,399.83 ", $35 ,0.72%
+Steel,157,265845," $16,811 "," $31,401 "," $63,235.34 "," $118,115.82 ", $32 ,0.03%
+Telecom (Wireless),3,30106," $56,259 "," $15,891 "," $1,868,697.27 "," $527,818.38 ", $10 ,0.05%
+Telecom. Equipment,20,10352, $7 , $5 , $716.77 , $450.15 , $4 ,0.22%
+Telecom. Services,13,24841," $6,201 "," $3,552 "," $249,611.53 "," $143,005.52 ", $0 ,0.00%
+Tobacco,5,25730, $-   , $-   , $-   , $-   , $9 ,0.10%
+Transportation,38,50676, $2 , $2 , $39.66 , $44.40 , $43 ,0.61%
+Transportation (Railroads),1,1359, $-   , $-   , $-   , $-   , $-   ,0.00%
+Trucking,12,22441, $-   , $-   , $-   , $-   , $-   ,0.00%
+Utility (General),0,0, $-   , $-   , NA , NA , $-   ,NA
+Utility (Water),1,2000, $246 , $371 ," $123,100.00 "," $185,550.00 ", $-   ,0.00%
+Total Market,4149,9668412," $438,857 "," $142,480 "," $45,390.81 "," $14,736.63 "," $1,443 ",0.08%
+Total Market (without financials),3577,7343380," $272,075 "," $107,985 "," $37,050.43 "," $14,705.11 "," $1,038 ",0.07%

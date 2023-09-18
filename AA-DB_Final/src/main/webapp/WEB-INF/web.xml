@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd"
+         version="5.0">
+
+    <display-name>Trader's Diary Web Application</display-name>
+
+    <error-page>
+        <exception-type>java.lang.Exception</exception-type>
+        <location>/Components/Error.jsp</location>
+    </error-page>
+    <error-page>
+        <error-code>404</error-code>
+        <location>/Components/Error.jsp</location>
+    </error-page>
+    <error-page>
+        <exception-type>java.lang.Throwable</exception-type>
+        <location>/Components/Error.jsp</location>
+    </error-page>
+
+
+<!--    Diary Entry Servlet Mapping ****************************************************** -->
+    <servlet>
+        <servlet-name>entryList</servlet-name>
+        <jsp-file>/View-JSP/EntryList.jsp</jsp-file> <!-- Your JSP. Must begin with '/' -->
+        <init-param>
+            <param-name>load-on-startup</param-name>
+            <param-value>0</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>entryList</servlet-name>
+        <url-pattern>/diaryEntries/listAll</url-pattern> <!-- Any URL you want here -->
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>entryForm</servlet-name>
+        <jsp-file>/View-JSP/DiaryForm.jsp</jsp-file> <!-- Your JSP. Must begin with '/' -->
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>entryForm</servlet-name>
+        <url-pattern> /editForm/* </url-pattern> <!-- Any URL you want here -->
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>search</servlet-name>
+        <jsp-file>/View-JSP/SearchFeature.jsp</jsp-file> <!-- Your JSP. Must begin with '/' -->
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>search</servlet-name>
+        <url-pattern> /searchEntries </url-pattern> <!-- Any URL you want here -->
+    </servlet-mapping>
+
+
+
+<!--    Log in Servlet mapping *****************************************************************************-->
+    <servlet>
+        <servlet-name>registerUser</servlet-name>
+        <jsp-file>/View-JSP/RegisterUser.jsp</jsp-file> <!-- Your JSP. Must begin with '/' -->
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>registerUser</servlet-name>
+        <url-pattern> /user/register </url-pattern> <!-- Any URL you want here -->
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>loginUser</servlet-name>
+        <jsp-file>/View-JSP/Login.jsp</jsp-file> <!-- Your JSP. Must begin with '/' -->
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>loginUser</servlet-name>
+        <url-pattern> /user/login </url-pattern> <!-- Any URL you want here -->
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>updateUser</servlet-name>
+        <jsp-file>/View-JSP/UpdateUserForm.jsp</jsp-file> <!-- Your JSP. Must begin with '/' -->
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>updateUser</servlet-name>
+        <url-pattern> /user/update </url-pattern> <!-- Any URL you want here -->
+    </servlet-mapping>
+
+</web-app>
